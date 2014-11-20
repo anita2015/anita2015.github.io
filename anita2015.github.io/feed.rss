@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+
+<channel>
+  <title>Wakwella Villa Galle Sri Lanka</title>
+  <atom:link href="https://wackwella-villa-louiseswift.c9.io/_site/feed.rss" rel="self" type="application/rss+xml"/>
+  <link>https://wackwella-villa-louiseswift.c9.io/_site</link>
+  <description>Boutique Guest Villa in Galle, Sri Lanka</description>
+  <lastBuildDate>Thu, 20 Nov 2014 00:00:00 +0000</lastBuildDate>
+  <language>en-UK</language>
+  <sy:updatePeriod>weekly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  
+  <item>
+    <title>An Excellent Example Blog Post</title>
+    <link>https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/</link>
+    <guid>https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/</guid>
+    <pubDate>
+      
+        Fri, 14 Nov 2014 00:00:00 +0000
+      
+    </pubDate>
+    <dc:creator>
+      <![CDATA[ Anita ]]>
+    </dc:creator>
+    <category>
+      <![CDATA[ news ]]>
+    </category>
+    <description>
+      <![CDATA[
+      <p>From <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a>:</p> <p><h2 id="title">Title</h2>
+
+</p> <p>From <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a>.</p>
+      ]]>
+    </description>
+    <content:encoded>
+      <![CDATA[
+      <p>From <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a></p>
+      <p><h2 id="title">Title</h2>
+
+<p>This is an example blog post.</p>
+
+<p>Here is an extra line.</p>
+
+<h3 id="here-is-a-heading-three">Here is a Heading Three</h3>
+
+<ul>
+  <li>this</li>
+  <li>is</li>
+  <li>a</li>
+  <li>list</li>
+</ul>
+</p>
+      <p>From <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/">Wakwella Villa Galle Sri Lanka.</a>:</p>
+      ]]>
+    </content:encoded>
+  </item>
+  
+</channel>
+</rss>
