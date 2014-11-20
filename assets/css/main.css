@@ -4624,7 +4624,7 @@ body {
   color: #eedbba;
   margin: 0 auto;
   max-width: 980px;
-  padding: 48px 0; }
+  padding: 0 0 48px 0; }
 
 .container {
   max-width: 960px; }
@@ -4669,6 +4669,20 @@ header h2 {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 16px;
   font-style: italic; }
+
+#home-slideshow {
+  height: 250px; }
+
+#home-slideshow img {
+  left: 0;
+  position: absolute;
+  z-index: 8; }
+
+#home-slideshow img.active {
+  z-index: 10; }
+
+#home-slideshow img.last-active {
+  z-index: 9; }
 
 /*
  * MAIN NAVIGATION

@@ -3,18 +3,18 @@
 
 <channel>
   <title>Wakwella Villa Galle Sri Lanka</title>
-  <atom:link href="http://wakwellavilla-srilanka.com/feed.rss" rel="self" type="application/rss+xml"/>
-  <link>http://wakwellavilla-srilanka.com</link>
+  <atom:link href="https://wackwella-villa-louiseswift.c9.io/_site/feed.rss" rel="self" type="application/rss+xml"/>
+  <link>https://wackwella-villa-louiseswift.c9.io/_site</link>
   <description>Boutique Guest Villa in Galle, Sri Lanka</description>
-  <lastBuildDate>Fri, 14 Nov 2014 00:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Nov 2014 00:00:00 +0000</lastBuildDate>
   <language>en-UK</language>
   <sy:updatePeriod>weekly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
   
   <item>
     <title>An Excellent Example Blog Post</title>
-    <link>http://wakwellavilla-srilanka.com/news/first-blog-post/</link>
-    <guid>http://wakwellavilla-srilanka.com/news/first-blog-post/</guid>
+    <link>https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/</link>
+    <guid>https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/</guid>
     <pubDate>
       
         Fri, 14 Nov 2014 00:00:00 +0000
@@ -28,14 +28,14 @@
     </category>
     <description>
       <![CDATA[
-      <p>From <a rel="nofollow" href="http://wakwellavilla-srilanka.com/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="http://wakwellavilla-srilanka.com/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a>:</p> <p><h2 id="title">Title</h2>
+      <p>From <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a>:</p> <p><h2 id="title">Title</h2>
 
-</p> <p>From <a rel="nofollow" href="http://wakwellavilla-srilanka.com/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="http://wakwellavilla-srilanka.com/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a>.</p>
+</p> <p>From <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a>.</p>
       ]]>
     </description>
     <content:encoded>
       <![CDATA[
-      <p>From <a rel="nofollow" href="http://wakwellavilla-srilanka.com/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="http://wakwellavilla-srilanka.com/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a></p>
+      <p>From <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/">Wakwella Villa Galle Sri Lanka - Boutique Guest Villa in Galle, Sri Lanka</a></p>
       <p><h2 id="title">Title</h2>
 
 <p>This is an example blog post.</p>
@@ -51,7 +51,7 @@
   <li>list</li>
 </ul>
 </p>
-      <p>From <a rel="nofollow" href="http://wakwellavilla-srilanka.com/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="http://wakwellavilla-srilanka.com/">Wakwella Villa Galle Sri Lanka.</a>:</p>
+      <p>From <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/news/first-blog-post/">'An Excellent Example Blog Post'</a> on <a rel="nofollow" href="https://wackwella-villa-louiseswift.c9.io/_site/">Wakwella Villa Galle Sri Lanka.</a>:</p>
       ]]>
     </content:encoded>
   </item>
